@@ -1,0 +1,21 @@
+https://kinsta.com/blog/php-8/
+
+https://www.php.net/releases/8.0/en.php
+
+Constructor Property Promotion
+Validation for Abstract Trait Methods
+Incompatible Method Signatures
+Arrays Starting With a Negative Index
+Union Types 2.0
+Consistent Type Errors for Internal Functions
+throw Expression
+Weak Maps
+Trailing Comma in Parameter List
+Allow ::class syntax on objects
+Attributes v2
+Named Arguments
+Nullsafe Operator
+Saner String to Number Comparisons
+Saner Numeric Strings
+Match Expression v2
+Stricter Type Checks for Arithmetic/Bitwise Operators
